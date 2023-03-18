@@ -1,1 +1,9 @@
+version: v1
 
+id:
+  org: 15a29fea-ebaf-4187-94a3-bccca055e2dd
+  app: 799e54b4-8f77-4df0-bfc3-59cf50245b7a
+  
+dast:
+  url: http://10.36.234.19:9600/pass/
+  full_scan: true
